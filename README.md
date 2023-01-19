@@ -7,8 +7,6 @@
 
 
 
-# **Enlace github**
-<https://github.com/A21cocaal/Arquitectura-3-niveles-wordpress---Alberto->
 # **Servidor nfs**
 Lo instalaremos el servidor nfs en la maquina NFS
 
