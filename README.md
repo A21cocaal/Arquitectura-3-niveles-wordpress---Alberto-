@@ -4,16 +4,6 @@
 | :-: |
 
 
-# **Índice**
-[Enlace github	](#_Toc125029924)
-
-[Servidor nfs	](#_Toc125029925)
-
-[Cliente nfs	](#_Toc125029926)
-
-[Archivo exports	](#_Toc125029927)
-
-[Creación de punto de montaje para el cliente NFS	3](#_Toc125029928)
 
 
 
